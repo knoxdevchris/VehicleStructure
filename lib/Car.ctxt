@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ An\ abstract\ class\ representing\ a\ car,\ extending\ Vehicle.\r\n\ Defines\ car-specific\ properties\ like\ two-door\ status.\r\n\r\n\ @author\ Your\ Name\r\n\ @version\ 1.0,\ June\ 2025\r\n
+comment1.params=isTwoDoor\ model\ make\ year\ type\ color
+comment1.target=Car(boolean,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ Car\ with\ the\ specified\ attributes.\r\n\r\n\ @param\ isTwoDoor\ true\ if\ the\ car\ has\ two\ doors,\ false\ if\ it\ has\ four\r\n\ @param\ model\ \ \ \ \ the\ model\ of\ the\ car\r\n\ @param\ make\ \ \ \ \ \ the\ make\ of\ the\ car\r\n\ @param\ year\ \ \ \ \ \ the\ year\ the\ car\ was\ manufactured\r\n\ @param\ type\ \ \ \ \ \ the\ type\ of\ car\ (e.g.,\ Sedan,\ Coupe)\r\n\ @param\ color\ \ \ \ \ the\ color\ of\ the\ car\r\n\ @throws\ IllegalArgumentException\ if\ any\ parameter\ is\ invalid\r\n
+comment2.params=
+comment2.target=boolean\ hasTwoDoors()
+comment2.text=\r\n\ Checks\ if\ the\ car\ has\ two\ doors.\r\n\r\n\ @return\ true\ if\ the\ car\ has\ two\ doors,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=boolean\ isTwoDoor()
+comment3.text=\r\n\ Gets\ the\ two-door\ status\ of\ the\ car.\r\n\r\n\ @return\ true\ if\ the\ car\ has\ two\ doors,\ false\ otherwise\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sedan
+comment0.text=\r\n\ A\ concrete\ class\ representing\ a\ sedan,\ extending\ Car.\r\n\r\n\ @author\ Your\ Name\r\n\ @version\ 1.0,\ June\ 2025\r\n
+comment1.params=model\ make\ year\ color\ isTwoDoor
+comment1.target=Sedan(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructs\ a\ Sedan\ with\ the\ specified\ attributes.\r\n\r\n\ @param\ model\ \ \ \ \ the\ model\ of\ the\ sedan\r\n\ @param\ make\ \ \ \ \ \ the\ make\ of\ the\ sedan\r\n\ @param\ year\ \ \ \ \ \ the\ year\ the\ sedan\ was\ manufactured\r\n\ @param\ color\ \ \ \ \ the\ color\ of\ the\ sedan\r\n\ @param\ isTwoDoor\ true\ if\ the\ sedan\ has\ two\ doors,\ false\ if\ it\ has\ four\r\n\ @throws\ IllegalArgumentException\ if\ any\ parameter\ is\ invalid\r\n
+comment2.params=
+comment2.target=boolean\ isTinted()
+comment2.text=\r\n\ Indicates\ whether\ the\ sedan\ has\ tinted\ windows.\r\n\r\n\ @return\ false,\ assuming\ sedans\ have\ tinted\ windows\ by\ default\r\n
+comment3.params=
+comment3.target=void\ drive()
+comment3.text=\r\n\ Simulates\ driving\ the\ sedan.\r\n
+numComments=4

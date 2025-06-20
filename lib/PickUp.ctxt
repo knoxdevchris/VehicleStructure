@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PickUp
+comment0.text=\r\n\ A\ concrete\ class\ representing\ a\ pickup\ truck,\ extending\ Truck.\r\n\r\n\ @author\ Your\ Name\r\n\ @version\ 1.0,\ June\ 2025\r\n
+comment1.params=model\ make\ year\ color\ hasTruckBed\ isTwoDoor
+comment1.target=PickUp(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ boolean,\ boolean)
+comment1.text=\r\n\ Constructs\ a\ PickUp\ with\ the\ specified\ attributes.\r\n\r\n\ @param\ model\ \ \ \ \ \ \ the\ model\ of\ the\ pickup\ truck\r\n\ @param\ make\ \ \ \ \ \ \ \ the\ make\ of\ the\ pickup\ truck\r\n\ @param\ year\ \ \ \ \ \ \ \ the\ year\ the\ pickup\ truck\ was\ manufactured\r\n\ @param\ color\ \ \ \ \ \ \ the\ color\ of\ the\ pickup\ truck\r\n\ @param\ hasTruckBed\ true\ if\ the\ pickup\ truck\ has\ a\ truck\ bed,\ false\ otherwise\r\n\ @param\ isTwoDoor\ \ \ true\ if\ the\ pickup\ truck\ has\ two\ doors,\ false\ otherwise\r\n\ @throws\ IllegalArgumentException\ if\ any\ parameter\ is\ invalid\r\n
+comment2.params=
+comment2.target=boolean\ isTinted()
+comment2.text=\r\n\ Indicates\ whether\ the\ pickup\ truck\ has\ tinted\ windows.\r\n\r\n\ @return\ false,\ assuming\ pickup\ trucks\ have\ tinted\ windows\ by\ default\r\n
+comment3.params=
+comment3.target=boolean\ hasTwoDoors()
+comment3.text=\r\n\ Indicates\ whether\ the\ pickup\ truck\ has\ two\ doors.\r\n\r\n\ @return\ true\ if\ the\ pickup\ truck\ has\ two\ doors,\ false\ otherwise\r\n
+comment4.params=
+comment4.target=void\ drive()
+comment4.text=\r\n\ Simulates\ driving\ the\ pickup\ truck.\r\n
+numComments=5
